@@ -11,12 +11,6 @@ Desafio de projeto pra conclusão do curso de Git e GitHub.
 
 
 
-## Screenshots
-
-![App Screenshot](/dio-desafio-gtihub/Screenshot_1.png)
-
-
-
 ## Referência
 
  - [Digital Innovation One](https://dio.me)
